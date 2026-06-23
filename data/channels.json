@@ -98,6 +98,13 @@
       "url": "http://193.47.62.47/hls/QAQAQAZZZZ.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+         {"name": "FOX Sports (FIFA USA)", "url": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Fox_Sports_logo.svg"},
+     {"name": "Telemundo Deportes Florida (FIFA USA Latin)", "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Telemundo_logo.svg"},
+     {"name": "BBC One (FIFA UK)", "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_hd_abr_v2.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_One_logo_2021.svg"},
+     {"name": "TF1 HD (FIFA France)", "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_TF1_2013.svg"},
+     {"name": "Coze TV (Caze TV FIFA World Cup 2026)", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/FIFA_Logo.svg"},
+     {"name": "Caze TV Brazil (FIFA)", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/FIFA_Logo.svg"},
+
     {
       "name": "FOX ONE FHD (DASH)",
       "url": "dash||c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824||https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
