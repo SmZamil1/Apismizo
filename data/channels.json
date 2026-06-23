@@ -1,11 +1,26 @@
 {
   "FIFA": [
     
-        {
-      "name": "WC TSN ",
-      "url": "https://pub-709ed9d6868e464e99ce5de64921cda2.r2.dev/en/index.m3u8",
+        
+     {
+      "name": "Toffee",
+      "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782339209~Starts=1782252809~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SofbvQK8sQ35zVwIOitQ4IuK3iNn7777TCs2anNQp1pJRu0yEX_Ga_PigVsZXnMdIS_FF9-35StJUYbdpkUJDQ",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+    
+    {
+      "name": "WC Tsports",
+      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "WC Somoy TV",
+      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    
         {
       "name": "U8 sport ",
       "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
@@ -18,11 +33,6 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
-     {
-      "name": "Toffee",
-      "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782339209~Starts=1782252809~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=SofbvQK8sQ35zVwIOitQ4IuK3iNn7777TCs2anNQp1pJRu0yEX_Ga_PigVsZXnMdIS_FF9-35StJUYbdpkUJDQ",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
     
         {
       "name": "GoLive 1vpn ",
@@ -30,17 +40,12 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
+    {
+      "name": "WC TSN ",
+      "url": "https://pub-709ed9d6868e464e99ce5de64921cda2.r2.dev/en/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
     
-    {
-      "name": "WC Tsports",
-      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-    {
-      "name": "WC Somoy TV",
-      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
         {
       "name": "bein 2 ",
       "url": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8",
@@ -98,12 +103,9 @@
       "url": "http://193.47.62.47/hls/QAQAQAZZZZ.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-         {"name": "FOX Sports (FIFA USA)", "url": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Fox_Sports_logo.svg"},
-     {"name": "Telemundo Deportes Florida (FIFA USA Latin)", "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Telemundo_logo.svg"},
-     {"name": "BBC One (FIFA UK)", "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_hd_abr_v2.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_One_logo_2021.svg"},
-     {"name": "TF1 HD (FIFA France)", "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_TF1_2013.svg"},
-     {"name": "Coze TV (Caze TV FIFA World Cup 2026)", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/FIFA_Logo.svg"},
-     {"name": "Caze TV Brazil (FIFA)", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/FIFA_Logo.svg"},
+         {"name": "FOX Sports (FIFA USA)", "url": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8", "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"},
+     {"name": "Caze TV", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8", "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"},
+     {"name": "Caze TV2", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8", "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"},
 
     {
       "name": "FOX ONE FHD (DASH)",
