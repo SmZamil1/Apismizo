@@ -1,5 +1,57 @@
 {
   "FIFA": [
+    
+        {
+      "name": "WC TSN ",
+      "url": "https://pub-709ed9d6868e464e99ce5de64921cda2.r2.dev/en/index.m3u8",
+      "logo": https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png""
+    },
+     {
+      "name": "TSN x",
+      "url": "https://obeliskadefat.s3.us-west-2.amazonaws.com/cubs_480p30.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+        {
+      "name": "GoLive 1111vpn ",
+      "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b2196000_sleng.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    
+        {
+      "name": "bein 2 ",
+      "url": "https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    
+    
+        {
+      "name": "bein 11vpn ",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+        {
+      "name": "DAZN 11vpn",
+      "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+        {
+      "name": "U8 sport vpn",
+      "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+        {
+      "name": "Fox sport vpn",
+      "url": "http://84.17.50.102/fox/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    
     {
       "name": "WC GoLive",
       "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
