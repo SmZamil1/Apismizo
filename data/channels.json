@@ -19,6 +19,11 @@
       "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+        {
+      "name": "bein en ",
+      "url": "https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
     
     
         {
@@ -30,6 +35,11 @@
         {
       "name": "Fox sport ",
       "url": "http://84.17.50.102/fox/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+        {
+      "name": "Fox sport 2",
+      "url": "https://iptv-proxy.trionine.workers.dev/http://84.17.50.102/fox/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
