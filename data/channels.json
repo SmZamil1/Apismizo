@@ -7,15 +7,25 @@
       "url": "https://trs1.aynaott.com/tsports/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-      
-        {
-      "name": "koora ar",
-      "url": "https://am.proect.xyz/wesa1_720/index.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
+    
       {
       "name": "Unite8 2",
       "url": "https://trs1.aynaott.com/ptvsports/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+      {
+      "name": "Arena 1",
+      "url": "https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    {
+      "name": "Arena 2",
+      "url": "https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+      {
+      "name": "koora ar",
+      "url": "https://am.proect.xyz/wesa1_720/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
@@ -159,6 +169,16 @@
     {
       "name": "Tyc Arg",
       "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    {
+      "name": "Arena 1",
+      "url": "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    {
+      "name": "Arena 2bh",
+      "url": "https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
