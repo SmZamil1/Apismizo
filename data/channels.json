@@ -60,7 +60,10 @@
         {
       "name": "iScreenBD",
       "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/6A337D45000050C1FE3B-p0_tmpl1080p_1080p-1783104388044.ts",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
+      "headers": {
+        "referer": "https://iscreen.com.bd/"
+      }
         },
     
     
