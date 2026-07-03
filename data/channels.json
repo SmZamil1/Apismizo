@@ -11,7 +11,21 @@
       "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-    
+        {
+      "name": "Football World Cup 2026",
+      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+      "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+    },
+    {
+      "name": "Football World Cup 2026",
+      "url": "http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8",
+      "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+    },
+    {
+      "name": "Football World Cup 2026",
+      "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8",
+      "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+    },
     
     {
       "name": "Tsports",
