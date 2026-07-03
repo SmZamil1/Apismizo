@@ -19,6 +19,12 @@
       "url": "dash||2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb||https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+        {
+      "name": "iScreenBD",
+      "url": "https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAoHOgrmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+        },
+    
     {
       "name": "Tsports 0vpn",
       "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
