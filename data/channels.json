@@ -1,30 +1,16 @@
 {
   "FIFA": [
-
+     
     {
-      "name": "iScreen",
-      "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
-      "headers": {
-        "Referer": "https://iscreen.com.bd/"
-      }
+      "name": "WC fast",
+      "url": "dash||2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb||https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
       "name": "Toffee",
       "url": "https://cdn-tt.pages.dev/ch2.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-    {
-      "name": "WC fast",
-      "url": "dash||2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb||https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-        {
-      "name": "iScreenBD",
-      "url": "https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAoHOgrmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-        },
-    
     {
       "name": "Tsports 0vpn",
       "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
@@ -51,6 +37,21 @@
       "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8",
       "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
     },
+    
+    {
+      "name": "iScreen",
+      "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
+      "headers": {
+        "Referer": "https://iscreen.com.bd/"
+      }
+    },
+        {
+      "name": "iScreenBD",
+      "url": "https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAoHOgrmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+        },
+    
     
     {
       "name": "Tsports",
