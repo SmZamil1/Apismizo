@@ -1,5 +1,16 @@
 {
   "FIFA": [
+    {
+      "name": "Tsports 0vpn",
+      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "Somoy TV",
+      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
     
     
     {
@@ -62,17 +73,6 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
-    {
-      "name": "Tsports 0vpn",
-      "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-    
-    {
-      "name": "Somoy TV",
-      "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
     
         {
       "name": "GoLive 1vpn ",
