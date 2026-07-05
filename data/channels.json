@@ -46,6 +46,11 @@
       "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+    {
+  "name": "Dynamic",
+  "url": "https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAoHOgzAHKymE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUg6qMuvdly_ERHndj1A4UgTq5ugF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT",
+  "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+},
         {
       "name": "Football World Cup 2026",
       "url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
