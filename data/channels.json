@@ -21,6 +21,11 @@
     },
 
     {
+      "name": "TWsports",
+      "url": "https://live-aburayhan1106.telewebion.ir/ek/sport1/live/1080p/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    {
       "name": "BTV",
       "url": "https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
@@ -74,9 +79,8 @@
     },
     
     {
-  "name": "Web3",
-  "url": "https://tv-watch.vercel.app/",
-  "type": "webview",
+  "name": "TSports1",
+  "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
   "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
     },
     {
@@ -143,8 +147,8 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
       {
-      "name": "koora ar",
-      "url": "https://am.proect.xyz/wesa1_720/index.m3u8",
+      "name": "koora",
+      "url": "https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
@@ -252,12 +256,12 @@
     },
     {
       "name": "beIN MAX FHD",
-      "url": "https://karim-medialive-906655021013-apse2.s3.ap-southeast-2.amazonaws.com/live/ch1/ch1.m3u8",
+      "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
-      "name": "TRT Sports HD",
-      "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+      "name": "Next HD",
+      "url": "https://next.badinan.xyz/nexttv/FHD/playlist.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
@@ -290,10 +294,53 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
-      "name": "SABC",
-      "url": "https://py3hsjj2.04334746.net:8443/hls/o9md77jh4ih0v-454670100.ts",
+      "name": "Russian3",
+      "url": "http://s6.cdntv.online/low/9mlxywika2/57.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
+    
+    {
+      "name": "Russian2",
+      "url": "http://s5.cdntv.online/low/9mlxywika2/56.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "Russian1",
+      "url": "http://s4.cdntv.online/low/9mlxywika2/55.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "iptv1",
+      "url": "http://103.165.93.31:8095/unt-s/video.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "iptv2",
+      "url": "http://103.165.93.31:8095/btv/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "iptv3",
+      "url": "http://103.165.93.31:8095/tsports/video.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "iptv4",
+      "url": "http://103.165.93.31:8095/somoyTv/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "iptv5",
+      "url": "http://103.165.93.31:8095/ptv/video.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
         {
       "name": "TVRI",
       "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
