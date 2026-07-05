@@ -1,5 +1,11 @@
 {
   "FIFA": [
+    
+    {
+      "name": "TW TV",
+      "url": "https://live-aburayhan1106.telewebion.ir/ek/sport1/live/1080p/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
      {
       "name": "WC TV",
       "url": "dash||2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb||https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
@@ -28,11 +34,6 @@
     {
       "name": "Binge+",
       "url": "https://fifa-live-proxy.mdjamsad60.workers.dev/?url=https://cdn2.fifalive.click/play.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-    {
-      "name": "TWsports",
-      "url": "https://live-aburayhan1106.telewebion.ir/ek/sport1/live/1080p/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
