@@ -10,6 +10,23 @@
       }
     },
 
+    {
+      "name": "tsn1",
+      "url": "https://fiveo4.vilevodules.uk/main/secure/c0549753f792a8abfbff9781da16b3a56430f0bff5c0acff97c3ae02eca97cb8/1784147963/tsn1-ca.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
+      "headers": {
+        "referer": "https://ritzembeds.pages.dev/"
+      }
+    },
+    {
+      "name": "bbc",
+      "url": "https://fiveo4.vilevodules.uk/main/secure/0c4db70f60757e91c39ac05e4ba57a54e099ed0ff351453affb057af2b25a502/1784148161/bbcone-uk.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
+      "headers": {
+        "referer": "https://ritzembeds.pages.dev/"
+      }
+    },
+
         {
   "name": "TSports1",
   "url": "https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8",
