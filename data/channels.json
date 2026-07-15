@@ -207,10 +207,9 @@
   "type": "webview",
   "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
     },
-    
     {
   "name": "Web2",
-  "url": "http://smizo.page.gd/iframe/",
+  "url": "http://smizo.page.gd/iptv",
   "type": "webview",
   "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
     },
@@ -221,6 +220,13 @@
   "type": "webview",
   "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
     },
+    {
+  "name": "Web4",
+  "url": "http://smizo.page.gd/iframe/",
+  "type": "webview",
+  "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+    },
+    
     
   {
     "name": "Channel 1",
