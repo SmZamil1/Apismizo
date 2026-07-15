@@ -29,7 +29,7 @@
     
     {
       "name": "irib",
-      "url": "https://auto.fifatv.qzz.io/stream9/720p/index.m3u8",
+      "url": "https://auto.fifatv.qzz.io/stream9/108050p/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
       "headers": {
         "referer": "https://fifatv.qzz.io/"
