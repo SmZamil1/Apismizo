@@ -2,6 +2,32 @@
   "FIFA": [
     
     {
+      "name": "Fussball tv",
+      "url": "https://edge22.776740.ir.cdn.ir/hls2/rasf1.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+
+        {
+  "name": "TSports1",
+  "url": "https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8",
+  "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+    },
+    {
+      "name": "Binge+",
+      "url": "https://fifa-live-proxy.mdjamsad60.workers.dev/?url=https://cdn2.fifalive.click/play.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "irib",
+      "url": "https://auto.fifatv.qzz.io/stream9/108050p/index.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
+      "headers": {
+        "referer": "https://fifatv.qzz.io/"
+      }
+    },
+    
+    {
       "name": "bein",
       "url": "https://proxy1.livekhela.qzz.io/stream16/index.m3u8",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
@@ -51,25 +77,6 @@
     },
 
 
-    {
-  "name": "TSports1",
-  "url": "https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8",
-  "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
-    },
-    {
-      "name": "Binge+",
-      "url": "https://fifa-live-proxy.mdjamsad60.workers.dev/?url=https://cdn2.fifalive.click/play.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-    
-    {
-      "name": "irib",
-      "url": "https://auto.fifatv.qzz.io/stream9/108050p/index.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png",
-      "headers": {
-        "referer": "https://fifatv.qzz.io/"
-      }
-    },
 
     
     {
@@ -104,7 +111,7 @@
 
     {
       "name": "somoy",
-      "url": "https://bdixserver.tvhunter.top/ant1003/tracks-v1a1/index.m3u8",
+      "url": "https://bdixserver.tvhunter.top/ant1008/tracks-v1a1/2026/07/15/17/05/51-06000.ts",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     {
@@ -429,11 +436,6 @@
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
     
-    {
-      "name": "Fussball tv",
-      "url": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
     
     {
       "name": "GoLive",
