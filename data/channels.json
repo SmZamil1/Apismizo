@@ -1,5 +1,12 @@
 {
   "FIFA": [
+
+            {
+      "name": "bein5",
+      "url": "https://hls.diptom3ow.workers.dev/r/https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
             {
       "name": "bein5",
       "url": "https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index",
