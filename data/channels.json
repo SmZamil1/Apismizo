@@ -12,7 +12,29 @@
       "url": "https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-
+{
+    "name": "iTv",
+    "url": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8",
+    "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+  },
+    {
+      "name": "soco",
+      "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+    
+    {
+      "name": "vivo",
+      "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+    },
+     
+  {
+    "name": "TUDN",
+    "url": "https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8",
+    "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+  },
+    
   {
     "name": "foxhd x",
     "url": "dash||f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7||https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -32,24 +54,6 @@
       {
     "name": "fox x",
     "url": "dash||0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d||https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
-    "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-  },
-  
-    {
-      "name": "soco",
-      "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-    
-    {
-      "name": "vivo",
-      "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-      "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-    },
-     
-  {
-    "name": "TUDN",
-    "url": "https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8",
     "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
   },
     
@@ -206,11 +210,7 @@
       "url": "dash||2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb||https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
       "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
     },
-      {
-    "name": "iTv",
-    "url": "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8",
-    "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
-  },
+    
     
     {
       "name": "Fox",
