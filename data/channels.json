@@ -283,6 +283,12 @@
   "url": "https://live2.pro2cdnlive.com/live/channel11.m3u8",
   "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
 },
+    {
+  "name": "FOX USA",
+  "type": "iframe",
+  "url": "https://logic.icelanders.st/embed/fox-usa",
+  "logo": "https://crystalpng.com/wp-content/uploads/2026/01/FIFA-World-Cup-Logo-2026.png"
+}
 {
   "name": "Web1",
   "url": "https://smizo.page.gd/fox",
